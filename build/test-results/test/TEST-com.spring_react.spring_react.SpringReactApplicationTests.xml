@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spring_react.spring_react.SpringReactApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-03T20:44:48" hostname="jeongyeongseog-ui-MacBookAir.local" time="0.489">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.spring_react.spring_react.SpringReactApplicationTests" time="0.489"/>
+  <system-out><![CDATA[05:44:47.713 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.spring_react.spring_react.SpringReactApplicationTests]: SpringReactApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+05:44:47.767 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.spring_react.spring_react.SpringReactApplication for test class com.spring_react.spring_react.SpringReactApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-01-04T05:44:47.963+09:00  INFO 2400 --- [    Test worker] c.s.s.SpringReactApplicationTests        : Starting SpringReactApplicationTests using Java 17.0.9 with PID 2400 (started by scc9811 in /Users/scc9811/Desktop/spring_react)
+2024-01-04T05:44:47.964+09:00  INFO 2400 --- [    Test worker] c.s.s.SpringReactApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2024-01-04T05:44:48.419+09:00  INFO 2400 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-01-04T05:44:48.565+09:00  INFO 2400 --- [    Test worker] c.s.s.SpringReactApplicationTests        : Started SpringReactApplicationTests in 0.724 seconds (process running for 1.319)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
